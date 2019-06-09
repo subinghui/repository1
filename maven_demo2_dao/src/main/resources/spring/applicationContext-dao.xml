@@ -33,4 +33,7 @@
         <property name="basePackage" value="com.itheima.dao"/>
     </bean>
 
+    <bean id="daoTest" class="com.itheima.dao.DaoTest">
+        <property name="name" value="aaaaa"></property>
+    </bean>
 </beans>
